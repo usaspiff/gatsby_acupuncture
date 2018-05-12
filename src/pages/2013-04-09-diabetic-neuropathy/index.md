@@ -1,0 +1,16 @@
+---
+path: "/post-diabetic-neuropathy"
+date: "2013-04-09"
+title: "Acupuncture and Diabetic Neuropathy"
+author: "Nicole Sharkey"
+---
+
+Diabetes is a complex condition with many possible complications. Among these are vision loss, kidney disease, hypertension, heart disease, hearing loss, mental health, skin and neurological disorders.  Acupuncture and Chinese herbal medicine have long been used to support the body’s ability to improve outcomes in the treatment of diabetes – both to mitigate the complications of diabetes and to reduce the insulin resistance at the root of the disease.  A recent study published in the Journal of Thai Traditional & Alternative Medicine highlights acupuncture’s impact on one particularly troubling complication: peripheral neuropathy.
+
+Peripheral neuropathy occurs in diabetes when high blood sugar injures the nerve fibers of the body.  Nerve injury occurs most commonly in the hands and feet, where people experience symptoms ranging from numbness, tingling or burning to complete loss of sensation.  Other complications of neuropathy can include urinary incontinence, erectile dysfunction and abnormal sweating.  Diabetic peripheral neuropathy can produce symptoms that range from mildly irritating to extremely painful, and is potentially fatal: loss of sensation can prevent recognition of cuts or injuries to the extremities which, undetected, may become infected, leading to amputation or even death.
+
+Luckily, acupuncture can do much to improve circulation and nerve function in the extremities.  The recent study showed that when acupuncture was added to a medical treatment regime for diabetic peripheral neuropathy, neuropathy symptom score success rates jumped from 8% to 90%.  Neuropathy disability scores went from a medication-only 37.45% success rate to over 90% as well.  Acupuncture points used in the study included points on the arms, legs, back and stomach.  In addition to promoting flow of energy and fluids, these points have special indications for the pancreas, stomach, spleen, kidneys, and large intestine, as diabetes is addressed through multiple organs in Chinese medicine.
+
+Chinese medical treatment for diabetes and its complications may also include herbal medicine.  Herbal supplements, such as american ginseng, can improve glucose tolerance while other herbs and formulas help to support cardiovascular, neurological, urological and mental health.  As with all treatments, careful diagnosis by a trained professional is critical to prescribing acu-points and herbal medicines appropriate for each individual.  Careful monitoring of blood sugar and the use of physician-prescribed medications is also critical to successful treatment, as is regular exercise and a diet that includes plenty of fresh vegetables, fruits and lean proteins and excludes processed foods, sugars, alcohol and artificial sweeteners.
+
+Read the [full article](http://www.healthcmi.com/acupuncturist-news-online/735-diabneuroacu) on acupuncture and diabetic neuropathy. 
