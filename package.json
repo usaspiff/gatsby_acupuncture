@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "nicole-sharkey-acupuncture",
+  "description": "Acupuncture and Chinese Herbal Medicine",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Nick Tchemitcheff <nick.tchemi@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.247",
     "gatsby-link": "^1.6.40",
@@ -15,7 +15,7 @@
     "react-iframe": "^1.1.0"
   },
   "keywords": [
-    "gatsby"
+    "acupuncture"
   ],
   "license": "MIT",
   "scripts": {
