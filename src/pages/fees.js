@@ -10,8 +10,11 @@ const fees = () => (
       appointments are less.
     </p>
     <p>
-      Please contact me at 206-335-8017 or by email at
-      sharkeyacupuncture@gmail.com for my current fee schedule.
+      Please contact me at 206-335-8017 or by email at 
+      <a href="mailto:sharkeyacupuncture@gmail.com">
+        sharkeyacupuncture@gmail.com
+      </a>{' '}
+      for my current fee schedule.
     </p>
   </div>
 )

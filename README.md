@@ -1,6 +1,6 @@
 # Acupuncture and Chinese Herbal Medicine
 
-Gatsby clone of a Wordpress site: [Nicole Sharkey Acupuncture](http://www.nicolesharkeyacupuncture.com)
+Gatsby clone of a Wordpress site: [Nicole Sharkey Acupuncture](http://www.nicolesharkey.com)
 
 ## Details
 
