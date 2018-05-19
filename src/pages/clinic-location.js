@@ -7,7 +7,7 @@ const location = () => (
     <h2>Clinic Location</h2>
     <p>Phone: (206) 335-8017</p>
     <p>
-      Email:
+      Email:&#160;
       <a href="mailto:sharkeyacupuncture@gmail.com">
         {' '}
         sharkeyacupuncture@gmail.com
@@ -44,7 +44,7 @@ const location = () => (
       <br />
       <strong>Gift Certificates:</strong>
       <br />
-      Please contact me at (206) 335-8017 or
+      Please contact me at (206) 335-8017 or&#160;
       <a href="mailto:sharkeyacupuncture@gmail.com">
         sharkeyacupuncture@gmail.com
       </a>{' '}

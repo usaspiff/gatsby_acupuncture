@@ -16,7 +16,7 @@ const acupunctureTreats = () => (
     <ul>
       <li>
         <strong>Ear, Eye, Nose, Throat Disorders:</strong> Sinusitis • Sore
-        throat• Hay fever • Earache • Nerve deafness• Ringing in the ears •
+        throat • Hay fever • Earache • Nerve deafness• Ringing in the ears •
         Dizziness • Poor eyesight
       </li>
       <li>

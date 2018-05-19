@@ -23,7 +23,7 @@ const IndexPage = () => (
     </ul>
     <br />
     <p>
-      For a complete list of conditions treated by Chinese Medicine, click
+      For a complete list of conditions treated by Chinese Medicine, click&#160;
       <Link to="/acupuncture-treats">here</Link>.
     </p>
     <p>
@@ -45,7 +45,7 @@ const IndexPage = () => (
       To schedule an appointment, a free 30-minute in person consultation, or
       for questions about how acupuncture and Chinese medicine can help you,
       please contact Nicole by phone: <strong>(206) 335 -8017</strong>, or
-      email:
+      email:&#160;
       <strong>
         <a href="mailto:sharkeyacupuncture@gmail.com">
           sharkeyacupuncture@gmail.com

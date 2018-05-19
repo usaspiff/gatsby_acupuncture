@@ -3,7 +3,9 @@ import Link from 'gatsby-link'
 
 const BlogPage = ({ data }) => (
   <div>
-    <h2>Latest Posts</h2>
+    <h2>
+      <u>Latest Posts</u>
+    </h2>
     {data.allMarkdownRemark.edges.map(post => (
       <div key={post.node.id}>
         <h3>{post.node.frontmatter.title}</h3>
@@ -13,8 +15,10 @@ const BlogPage = ({ data }) => (
         </small>
         <br />
         <br />
-        <Link to={post.node.frontmatter.path}>Read More</Link>
-        <br />
+        <p>
+          {post.node.excerpt}
+          <Link to={post.node.frontmatter.path}>&#160;Read More.</Link>
+        </p>
         <br />
         <hr />
       </div>
@@ -23,21 +27,22 @@ const BlogPage = ({ data }) => (
 )
 
 export const pageQuery = graphql`
-  query BlogIndexQuery {
-    allMarkdownRemark {
-      edges {
-        node {
-          id
-          frontmatter {
-            path
-            title
-            date
-            author
-          }
-        }
-      }
-    }
-  }
-`
+         query BlogIndexQuery {
+           allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+             edges {
+               node {
+                 id
+                 excerpt(pruneLength: 250)
+                 frontmatter {
+                   path
+                   title
+                   date(formatString: "MMMM DD, YYYY")
+                   author
+                 }
+               }
+             }
+           }
+         }
+       `
 
 export default BlogPage
