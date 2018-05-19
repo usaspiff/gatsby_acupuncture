@@ -4,19 +4,18 @@ import Link from 'gatsby-link'
 export default function Template({ data }) {
   const post = data.markdownRemark
 
-  return (
-    <div>
+  return <div>
       <Link to="/blog">Go Back</Link>
       <hr />
       <h2>{post.frontmatter.title}</h2>
-      <br/>
       <h4>
-        Posted by {post.frontmatter.author} on {post.frontmatter.date}
+        <i>
+          Posted by {post.frontmatter.author} on {post.frontmatter.date}
+        </i>
       </h4>
-      <br/>
+      <br />
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
     </div>
-  )
 }
 
 export const postQuery = graphql`
@@ -27,7 +26,7 @@ export const postQuery = graphql`
                path
                title
                author
-               date
+               date(formatString: "MMMM DD, YYYY")
              }
            }
          }

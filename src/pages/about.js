@@ -5,13 +5,7 @@ const AboutPage = () => (
   <div>
     <h2>About Nicole</h2>
     <img
-      style={{
-        display: 'inline',
-        float: 'right',
-        marginLeft: '24px',
-        marginTop: '4px',
-        height: '310px',
-      }}
+      className="portrait"
       src={Nicole}
       alt="portrait"
     />
